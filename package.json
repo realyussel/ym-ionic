@@ -1,0 +1,22 @@
+{
+  "name": "ym-ionic",
+  "version": "1.0.0",
+  "description": "Aplicación móvil utilizando Ionic Framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yussme/ym-ionic.git"
+  },
+  "keywords": [
+    "ionic"
+  ],
+  "author": "Irving Yussel Blanco Rodríguez <irving@yussel.com.mx> (http://www.yussel.com.mx)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yussme/ym-ionic/issues"
+  },
+  "homepage": "https://github.com/yussme/ym-ionic#readme"
+}
